@@ -1,0 +1,3 @@
+ int Mnozenie(int,int);
+
+
