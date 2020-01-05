@@ -1,0 +1,1 @@
+int dodawanie (int,int);
