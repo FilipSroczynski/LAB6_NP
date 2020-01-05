@@ -1,4 +1,1 @@
-﻿ void Odejmowanie(int,int)
-{
-  
-}
+﻿ int Odejmowanie(int,int);
