@@ -1,1 +1,1 @@
-int dodawanie (int x,int y);
+int dodawanie (int,int);

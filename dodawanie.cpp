@@ -1,6 +1,6 @@
 #include <iostream>
 #include "zmienne.h"
-#include "dodawania.h"
+#include "dodawanie.h"
 
 using namespace std;
 
