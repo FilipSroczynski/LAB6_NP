@@ -1,1 +1,0 @@
-int dzielenie(int,int);
