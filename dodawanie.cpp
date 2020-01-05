@@ -1,9 +1,10 @@
+#include <iostream>
+#include "zmienne.h"
 #include "dodawania.h"
 
-void dodawanie (int x, int y)
-{
-  int sum;
-  sum=x+y;
+using namespace std;
 
-  cout<<sum;
+int dodawanie (int x, int y)
+{
+  return x+y;
 }
