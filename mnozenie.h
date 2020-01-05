@@ -1,4 +1,3 @@
- void Mnozenie(int,int)
-{
+ int Mnozenie(int,int);
 
-} 
+

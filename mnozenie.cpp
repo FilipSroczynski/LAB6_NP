@@ -6,3 +6,4 @@
  int Mnozenie(int a,int b)
 {
     return a*b;
+}
