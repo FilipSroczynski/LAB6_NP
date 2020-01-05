@@ -3,6 +3,8 @@
 #include "odejmowanie.h"
 #include "zmienne.h"
 #include "dzielenie.h"
+#include "mnozenie.h"
+#include "dodawanie.h"
 using namespace std;
 
 int main{
@@ -18,6 +20,12 @@ int main{
        		 break;
 	case '/':
 		cout<<dzielenie(a,b);
+		break;
+	case '*':
+		cout<<mnozenie(a,b);
+		break;
+	case '+':
+		cout<<dodawanie(a,b);
 		break;
  	 default:
         	cout<<"zły znak";
