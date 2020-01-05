@@ -2,6 +2,7 @@
 #include <conio.h>
 #include "odejmowanie.h"
 #include "zmienne.h"
+#include "dzielenie.h"
 using namespace std;
 
 int main{
@@ -13,10 +14,13 @@ int main{
     switch(znak)
     {
         case '-':
-        cout<<odejmowanie(a,b);
-        break;
-     default:
-        cout<<"zły znak";
-        break;
+       	 	cout<<odejmowanie(a,b);
+       		 break;
+	case '/':
+		cout<<dzielenie(a,b);
+		break;
+ 	 default:
+        	cout<<"zły znak";
+       		 break;
     }
 }
